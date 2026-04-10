@@ -48,15 +48,6 @@ Actively growing, following best practices, ready to work in a team.
 
 ---
 
-## GitHub stats
-
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=imsparkk&show_icons=true&hide_border=true&count_private=true&theme=default" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imsparkk&layout=compact&hide_border=true&theme=default" />
-</p>
-
----
-
 <p align="center">
   <a href="https://github.com/imsparkk">github.com/imsparkk</a>
 </p>
