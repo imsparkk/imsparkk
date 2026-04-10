@@ -1,4 +1,4 @@
-<h1 align="center">Привет, я imsparkk 👋 / Hi, I'm imsparkk 👋</h1>
+<h1 align="center">Hi, I'm imsparkk 👋</h1>
 
 <p align="center">
   <br/>
@@ -29,26 +29,26 @@ Actively growing, following best practices, ready to work in a team.
 
 ---
 
-## Стек технологий / Tech stack
+## Tech stack
 
-**Основное / Core**
+**Core**
 `Flutter` `Dart` `Clean Architecture` `MVVM` `SOLID`
 
-**Данные / Data**
+**Data**
 `Hive` `SQLite` `PostgreSQL`
 
-**Сеть / Network**
+**Network**
 `Dio` `REST API`
 
-**Бэкенд / Backend**
+**Backend**
 `FastAPI` `Pydantic` `SQLAlchemy` `Uvicorn` `Docker`
 
-**Инструменты / Tools**
+**Tools**
 `Git` `Postman` `Figma` `Firebase`
 
 ---
 
-## Статистика GitHub / GitHub stats
+## GitHub stats
 
 <p align="center">
   <img height="160" src="https://github-readme-stats.vercel.app/api?username=imsparkk&show_icons=true&hide_border=true&count_private=true&theme=default" />
