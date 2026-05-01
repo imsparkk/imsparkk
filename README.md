@@ -22,7 +22,7 @@
 Владею стеком FastAPI + PostgreSQL + Docker — понимаю продукт целиком, от клиента до бэкенда.
 Активно развиваюсь, изучаю лучшие практики и готов работать в команде.
 
-🇬🇧 Flutter developer focused on mobile apps with clean architecture.
+🇺🇸 Flutter developer focused on mobile apps with clean architecture.
 I build production-ready apps using MVVM + SOLID principles, REST API integration, and local databases.
 My FastAPI + PostgreSQL + Docker background lets me understand the full product — from mobile client to backend.
 Actively growing, following best practices, ready to work in a team.
